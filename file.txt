@@ -1,4 +1,1 @@
-full file content change
-task
-task
-task6
+test
